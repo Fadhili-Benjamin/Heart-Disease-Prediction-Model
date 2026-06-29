@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project develops a **Random Forest** machine learning model to predict the likelihood of heart disease based on patient clinical data. The model was built in **R** and deployed as an **interactive R Shiny web application**, allowing users to make predictions through a simple graphical interface.
+This project develops a Random Forest machine learning model to predict the likelihood of heart disease based on patient clinical data. The model was built in R and deployed as an interactive R Shiny web application, allowing users to make predictions through a simple graphical interface.
 
 ## Features
 
@@ -21,7 +21,7 @@ This project develops a **Random Forest** machine learning model to predict the 
   * AUC Score
 * Variable importance analysis
 * ROC curve visualization
-* Interactive prediction interface built with **R Shiny**
+* Interactive prediction interface built with R Shiny
 
 ## Dataset
 
@@ -31,16 +31,16 @@ The model is trained on a heart disease dataset containing patient demographic a
 
 The Random Forest model achieved strong predictive performance with:
 
-* Accuracy: **96.7%**
-* Sensitivity: **100%**
-* Specificity: **92.7%%**
-* Precision: **94.3%%**
-* F1 Score: **97.1%**
-* AUC Score: **1**
+* Accuracy: 96.7%
+* Sensitivity: 100%
+* Specificity: 92.7%%
+* Precision: 94.3%%
+* F1 Score: 97.1%
+* AUC Score: 1
 
 ## Live Application
 
-The model is deployed as an **R Shiny** application, enabling users to input patient information and receive real-time heart disease predictions.
+The model is deployed as an R Shiny application, enabling users to input patient information and receive real-time heart disease predictions.
 
 Live Demo:https://5usp5t-benjamin-fadhili.shinyapps.io/HEAR_DISEASE_PROJECT/
 ## Repository Structure

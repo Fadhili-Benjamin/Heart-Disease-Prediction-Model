@@ -43,7 +43,6 @@ The Random Forest model achieved strong predictive performance with:
 The model is deployed as an R Shiny application, enabling users to input patient information and receive real-time heart disease predictions.
 
 Live Demo:https://5usp5t-benjamin-fadhili.shinyapps.io/HEAR_DISEASE_PROJECT/
-## Repository Structure
 
 ## Author
 
